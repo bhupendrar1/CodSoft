@@ -24,9 +24,8 @@ do
 
     else
     cout << "You Won!" <<endl;
-    
+
 
 } while (guess != number);
-
 
 } 
